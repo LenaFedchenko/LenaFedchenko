@@ -50,31 +50,9 @@ I build backend services, REST APIs, database-driven applications, and real-time
 
 ---
 
-## Featured Projects
 
-### Local Communities Platform
-A platform for discovering local communities, creating chats, events, and communicating in real time.
+## Contact
 
-**Tech:** Python · FastAPI · PostgreSQL · WebSockets · Docker
-
-### Online Shop
-Backend and frontend web application for a small business with authentication, database integration, and REST API.
-
-**Tech:** Python · Flask · PostgreSQL · REST API
-
-### Realtime Chat
-Web application for real-time communication between users.
-
-**Tech:** Python · WebSockets · PostgreSQL
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LenaFedchenko&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LenaFedchenko&layout=compact&hide_border=true)
-
-</div>
+- LinkedIn: www.linkedin.com/in/lena-fedchenko-457279407
+- Telegram: @lenaa001
+- Email: lenafedcenko98@gmail.com
