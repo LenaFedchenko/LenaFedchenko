@@ -2,7 +2,7 @@
 
 # Lena Fedchenko
 
-### Python Backend Developer
+### Backend Developer
 
 I build backend services, REST APIs, database-driven applications, and real-time features using Python, Go, and Node.js.
 
@@ -12,10 +12,11 @@ I build backend services, REST APIs, database-driven applications, and real-time
 
 ## About me
 
-- Python Backend Developer with nearly one year of commercial experience
+- Backend Developer with nearly one year of commercial experience
 - Building **REST APIs, authentication systems, and backend services**
 - Working with **Python, FastAPI, Flask, Go, Node.js, PostgreSQL, SQLAlchemy, and Docker**
 - Experience with **JWT authentication and WebSockets**
+- Also working with **React and React Native**
 - Interested in **backend architecture, databases, performance, and scalable applications**
 
 ---
@@ -43,7 +44,13 @@ I build backend services, REST APIs, database-driven applications, and real-time
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,html,css" />
+  <img src="https://skillicons.dev/icons?i=react,js,html,css" />
+</p>
+
+### Mobile
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react" />
 </p>
 
 ---
