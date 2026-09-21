@@ -6,7 +6,6 @@
 
 I build backend services, REST APIs, database-driven applications, and real-time features using Python.
 
-[LinkedIn](YOUR_LINKEDIN) · [Email](mailto:YOUR_EMAIL) · [Telegram](YOUR_TELEGRAM)
 
 </div>
 
