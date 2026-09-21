@@ -4,8 +4,7 @@
 
 ### Python Backend Developer
 
-I build backend services, REST APIs, database-driven applications, and real-time features using Python.
-
+I build backend services, REST APIs, database-driven applications, and real-time features using Python, Go, and Node.js.
 
 </div>
 
@@ -15,9 +14,9 @@ I build backend services, REST APIs, database-driven applications, and real-time
 
 - Python Backend Developer with nearly one year of commercial experience
 - Building **REST APIs, authentication systems, and backend services**
-- Working with **FastAPI, Flask, PostgreSQL, SQLAlchemy, and Docker**
+- Working with **Python, FastAPI, Flask, Go, Node.js, PostgreSQL, SQLAlchemy, and Docker**
 - Experience with **JWT authentication and WebSockets**
-- Interested in **backend architecture, databases, and scalable applications**
+- Interested in **backend architecture, databases, performance, and scalable applications**
 
 ---
 
@@ -26,7 +25,7 @@ I build backend services, REST APIs, database-driven applications, and real-time
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,flask" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,go,nodejs" />
 </p>
 
 ### Databases
@@ -49,9 +48,8 @@ I build backend services, REST APIs, database-driven applications, and real-time
 
 ---
 
-
 ## Contact
 
-- LinkedIn: www.linkedin.com/in/lena-fedchenko-457279407
+- LinkedIn: https://www.linkedin.com/in/lena-fedchenko-457279407
 - Telegram: @lenaa001
 - Email: lenafedcenko98@gmail.com
